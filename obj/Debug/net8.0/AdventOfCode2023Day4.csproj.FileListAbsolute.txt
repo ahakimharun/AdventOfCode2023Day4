@@ -1,0 +1,14 @@
+C:\Users\SaLiVa\source\repos\AdventOfCode2023Day4\bin\Debug\net8.0\AdventOfCode2023Day4.exe
+C:\Users\SaLiVa\source\repos\AdventOfCode2023Day4\bin\Debug\net8.0\AdventOfCode2023Day4.deps.json
+C:\Users\SaLiVa\source\repos\AdventOfCode2023Day4\bin\Debug\net8.0\AdventOfCode2023Day4.runtimeconfig.json
+C:\Users\SaLiVa\source\repos\AdventOfCode2023Day4\bin\Debug\net8.0\AdventOfCode2023Day4.dll
+C:\Users\SaLiVa\source\repos\AdventOfCode2023Day4\bin\Debug\net8.0\AdventOfCode2023Day4.pdb
+C:\Users\SaLiVa\source\repos\AdventOfCode2023Day4\obj\Debug\net8.0\AdventOfCode2023Day4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SaLiVa\source\repos\AdventOfCode2023Day4\obj\Debug\net8.0\AdventOfCode2023Day4.AssemblyInfoInputs.cache
+C:\Users\SaLiVa\source\repos\AdventOfCode2023Day4\obj\Debug\net8.0\AdventOfCode2023Day4.AssemblyInfo.cs
+C:\Users\SaLiVa\source\repos\AdventOfCode2023Day4\obj\Debug\net8.0\AdventOfCode2023Day4.csproj.CoreCompileInputs.cache
+C:\Users\SaLiVa\source\repos\AdventOfCode2023Day4\obj\Debug\net8.0\AdventOfCode2023Day4.dll
+C:\Users\SaLiVa\source\repos\AdventOfCode2023Day4\obj\Debug\net8.0\refint\AdventOfCode2023Day4.dll
+C:\Users\SaLiVa\source\repos\AdventOfCode2023Day4\obj\Debug\net8.0\AdventOfCode2023Day4.pdb
+C:\Users\SaLiVa\source\repos\AdventOfCode2023Day4\obj\Debug\net8.0\AdventOfCode2023Day4.genruntimeconfig.cache
+C:\Users\SaLiVa\source\repos\AdventOfCode2023Day4\obj\Debug\net8.0\ref\AdventOfCode2023Day4.dll
